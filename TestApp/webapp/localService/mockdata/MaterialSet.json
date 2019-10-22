@@ -1,0 +1,91 @@
+[{
+	"Id": "Id 1",
+	"Name": "Name 1",
+	"Quantity": 9.85,
+	"UnitOfMeasure": "UnitOfMeasure 1",
+	"__metadata": {
+		"uri": "MaterialSet('Id%201')",
+		"type": "Z_MAT_REPOST_SRV.Material"
+	}
+}, {
+	"Id": "Id 2",
+	"Name": "Name 2",
+	"Quantity": 416.31,
+	"UnitOfMeasure": "UnitOfMeasure 2",
+	"__metadata": {
+		"uri": "MaterialSet('Id%202')",
+		"type": "Z_MAT_REPOST_SRV.Material"
+	}
+}, {
+	"Id": "Id 3",
+	"Name": "Name 3",
+	"Quantity": 6671.92,
+	"UnitOfMeasure": "UnitOfMeasure 3",
+	"__metadata": {
+		"uri": "MaterialSet('Id%203')",
+		"type": "Z_MAT_REPOST_SRV.Material"
+	}
+}, {
+	"Id": "Id 4",
+	"Name": "Name 4",
+	"Quantity": 2613.6,
+	"UnitOfMeasure": "UnitOfMeasure 4",
+	"__metadata": {
+		"uri": "MaterialSet('Id%204')",
+		"type": "Z_MAT_REPOST_SRV.Material"
+	}
+}, {
+	"Id": "Id 5",
+	"Name": "Name 5",
+	"Quantity": 7960.43,
+	"UnitOfMeasure": "UnitOfMeasure 5",
+	"__metadata": {
+		"uri": "MaterialSet('Id%205')",
+		"type": "Z_MAT_REPOST_SRV.Material"
+	}
+}, {
+	"Id": "Id 6",
+	"Name": "Name 6",
+	"Quantity": 2584.86,
+	"UnitOfMeasure": "UnitOfMeasure 6",
+	"__metadata": {
+		"uri": "MaterialSet('Id%206')",
+		"type": "Z_MAT_REPOST_SRV.Material"
+	}
+}, {
+	"Id": "Id 7",
+	"Name": "Name 7",
+	"Quantity": 5101.49,
+	"UnitOfMeasure": "UnitOfMeasure 7",
+	"__metadata": {
+		"uri": "MaterialSet('Id%207')",
+		"type": "Z_MAT_REPOST_SRV.Material"
+	}
+}, {
+	"Id": "Id 8",
+	"Name": "Name 8",
+	"Quantity": 7638.68,
+	"UnitOfMeasure": "UnitOfMeasure 8",
+	"__metadata": {
+		"uri": "MaterialSet('Id%208')",
+		"type": "Z_MAT_REPOST_SRV.Material"
+	}
+}, {
+	"Id": "Id 9",
+	"Name": "Name 9",
+	"Quantity": 100.85,
+	"UnitOfMeasure": "UnitOfMeasure 9",
+	"__metadata": {
+		"uri": "MaterialSet('Id%209')",
+		"type": "Z_MAT_REPOST_SRV.Material"
+	}
+}, {
+	"Id": "Id 10",
+	"Name": "Name 10",
+	"Quantity": 8688.55,
+	"UnitOfMeasure": "UnitOfMeasure 10",
+	"__metadata": {
+		"uri": "MaterialSet('Id%2010')",
+		"type": "Z_MAT_REPOST_SRV.Material"
+	}
+}]

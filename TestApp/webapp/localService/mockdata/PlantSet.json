@@ -1,0 +1,91 @@
+[{
+	"PlantId": "1000",
+	"Name": "Westlake Factory",
+	"Location": "Yasinya",
+	"ZipCode": "323156",
+	"__metadata": {
+		"uri": "PlantSet('PlantId%201')",
+		"type": "Z_MAT_REPOST_SRV.Plant"
+	}
+}, {
+	"PlantId": "1001",
+	"Name": "Landmark Factory",
+	"Location": "Chernyshkovskiy",
+	"ZipCode": "404480",
+	"__metadata": {
+		"uri": "PlantSet('PlantId%202')",
+		"type": "Z_MAT_REPOST_SRV.Plant"
+	}
+}, {
+	"PlantId": "1002",
+	"Name": "Hutchison Factory.",
+	"Location": "Buffalo",
+	"ZipCode": "83745",
+	"__metadata": {
+		"uri": "PlantSet('PlantId%203')",
+		"type": "Z_MAT_REPOST_SRV.Plant"
+	}
+}, {
+	"PlantId": "1003",
+	"Name": "Heritage Factory",
+	"Location": "Soio",
+	"ZipCode": "35352-342",
+	"__metadata": {
+		"uri": "PlantSet('PlantId%204')",
+		"type": "Z_MAT_REPOST_SRV.Plant"
+	}
+}, {
+	"PlantId": "1004",
+	"Name": "Oxford Lane Factory",
+	"Location": "Renchaoxi",
+	"ZipCode": "100134",
+	"__metadata": {
+		"uri": "PlantSet('PlantId%205')",
+		"type": "Z_MAT_REPOST_SRV.Plant"
+	}
+}, {
+	"PlantId": "1005",
+	"Name": "Santander Factory",
+	"Location": "Isawa",
+	"ZipCode": "787-0150",
+	"__metadata": {
+		"uri": "PlantSet('PlantId%206')",
+		"type": "Z_MAT_REPOST_SRV.Plant"
+	}
+}, {
+	"PlantId": "1006",
+	"Name": "Lagerwagen Factory",
+	"Location": "Stuttgart",
+	"ZipCode": "8394-324",
+	"__metadata": {
+		"uri": "PlantSet('PlantId%207')",
+		"type": "Z_MAT_REPOST_SRV.Plant"
+	}
+}, {
+	"PlantId": "1007",
+	"Name": "Apollo Factory",
+	"Location": "Campo Largo",
+	"ZipCode": "83600-000",
+	"__metadata": {
+		"uri": "PlantSet('PlantId%208')",
+		"type": "Z_MAT_REPOST_SRV.Plant"
+	}
+}, {
+	"PlantId": "1008",
+	"Name": "Normarder Factory",
+	"Location": "Berlin",
+	"ZipCode": "843753",
+	"__metadata": {
+		"uri": "PlantSet('PlantId%209')",
+		"type": "Z_MAT_REPOST_SRV.Plant"
+	}
+}, {
+	"PlantId": "1009",
+	"Name": "ROBO Global Factory",
+	"Location": "Magisterial",
+	"ZipCode": "47207",
+	"__metadata": {
+		"uri": "PlantSet('PlantId%2010')",
+		"type": "Z_MAT_REPOST_SRV.Plant"
+	}
+}]
