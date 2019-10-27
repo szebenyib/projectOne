@@ -1,0 +1,117 @@
+[{
+	"PlantId": "1000",
+	"Id": "1000",
+	"Name": "Name 1",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%201')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+}, {
+	"PlantId": "1000",
+	"Id": "1001",
+	"Name": "Name 2",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%202')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+}, {
+	"PlantId": "1000",
+	"Id": "1002",
+	"Name": "Name 3",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%203')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+}, {
+	"PlantId": "1000",
+	"Id": "1003",
+	"Name": "Name 4",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%204')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+}, {
+	"PlantId": "1001",
+	"Id": "1000",
+	"Name": "Name 5",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%205')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+}, {
+	"PlantId": "1001",
+	"Id": "1002",
+	"Name": "Name 6",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%206')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+}, {
+	"PlantId": "1002",
+	"Id": "1003",
+	"Name": "Name 7",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%207')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+}, {
+	"PlantId": "1003",
+	"Id": "1000",
+	"Name": "Name 8",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%208')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+}, {
+	"PlantId": "1004",
+	"Id": "1000",
+	"Name": "Name 9",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%209')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+},
+{
+	"PlantId": "1005",
+	"Id": "1000",
+	"Name": "Name 9",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%209')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+},
+{
+	"PlantId": "1006",
+	"Id": "1000",
+	"Name": "Name 9",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%209')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+},
+{
+	"PlantId": "1007",
+	"Id": "1000",
+	"Name": "Name 9",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%209')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+},
+{
+	"PlantId": "1008",
+	"Id": "1000",
+	"Name": "Name 9",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%209')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+},{
+	"PlantId": "1009",
+	"Id": "1000",
+	"Name": "Name 10",
+	"__metadata": {
+		"uri": "StorageLocationSet('PlantId%2010')",
+		"type": "Z_MAT_REPOST_SRV.StorageLocation"
+	}
+}]
