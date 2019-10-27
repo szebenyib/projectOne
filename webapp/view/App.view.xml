@@ -5,7 +5,7 @@
 	xmlns:l="sap.ui.layout"
 	xmlns:f="sap.ui.layout.form"
 	xmlns="sap.m"
-	controllerName="projectone.TestApp.controller.App">
+	controllerName="projectone.controller.App">
 	<App>
 		<pages>
 			<Page title="Raktárkészlet átkönyvelés">

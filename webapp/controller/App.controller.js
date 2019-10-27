@@ -3,6 +3,6 @@ sap.ui.define([
 ],
 	function(Controller) {
 	"use strict";
-	return Controller.extend("projectone.TestApp.controller.App", {
+	return Controller.extend("projectone.controller.App", {
 	});
 });

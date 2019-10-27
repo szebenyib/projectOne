@@ -2,7 +2,7 @@
 	"_version": "1.3.0",
 	"sap.app": {
 		"_version": "1.3.0",
-		"id": "projectone.TestApp",
+		"id": "projectone",
 		"type": "application",
 		"i18n": "i18n/i18n.properties",
 		"title": "{{appTitle}}",
@@ -37,7 +37,7 @@
 	"sap.ui5": {
 		"_version": "1.2.0",
 		"rootView": {
-			"viewName": "projectone.TestApp.view.App",
+			"viewName": "projectone.view.App",
 			"type": "XML",
 			"id": "app"
 		},
@@ -57,10 +57,15 @@
 			}
 		},
 		"models": {
+			"": {
+				"dataSource": "mainService",
+				"type": "sap.ui.model.odata.v2.ODataModel",
+				"preload": true
+			},
 			"i18n": {
 				"type": "sap.ui.model.resource.ResourceModel",
 				"settings": {
-					"bundleName": "projectone.TestApp.i18n.i18n"
+					"bundleName": "projectone.i18n.i18n"
 				}
 			}
 

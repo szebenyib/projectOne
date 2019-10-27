@@ -12,13 +12,13 @@
 		data-sap-ui-compatVersion="edge"
 		data-sap-ui-preload="async"
 		data-sap-ui-resourceroots='{
-			"projectone.TestApp": "./"
+			"projectone": "./"
 		}'>
 	</script>
 	<script>
 		sap.ui.getCore().attachInit(function() {
 			new sap.ui.core.ComponentContainer({
-				name : "projectone.TestApp"
+				name : "projectone"
 			}).placeAt("content");
 		});
 	</script>
@@ -26,6 +26,3 @@
 <body class="sapUiBody" id="content">
 </body>
 </html>
-
-
-
