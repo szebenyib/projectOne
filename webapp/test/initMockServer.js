@@ -1,6 +1,6 @@
 /* global Promise */
 sap.ui.define([
-    "projectone/TestApp/localService/mockserver"
+    "projectone/localService/mockserver"
 ], function (mockserver) {
     "use strict";
 
